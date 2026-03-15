@@ -1,7 +1,18 @@
-<!-- After forking, you can update this readme to give an overview of your work and learning, if you want. -->
-
 # Mesa GSoC Learning Space
 This is a template repository for GSoC candidates working on [Mesa](https://github.com/mesa/mesa). Fork it to create your personal learning space.
+
+## Current progress
+
+- Motivation draft still to be written in `motivation.md`
+- First model added in [`models/cross_functional_teams/`](./models/cross_functional_teams/)
+- Supporting folders added for future notes and peer reviews
+
+## Model index
+
+- [`models/cross_functional_teams/`](./models/cross_functional_teams/): a small
+  organization model with permanent departments and temporary project teams,
+  built to explore overlapping memberships and Mesa's experimental
+  `meta_agents` support
 
 ## What is this?
 Before contributing to Mesa, you need to understand Mesa — not just the API, but how agent-based models work and how Mesa's pieces fit together. This repo is your space to do that learning, visibly.
